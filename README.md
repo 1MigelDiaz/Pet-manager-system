@@ -2,10 +2,7 @@
 My 8th project using c++ please check README for more infos
 
 ## Features used:
-OOP (Public/Private, Classes)
-Vectors
-File Handling
-Functions
+OOP (Public/Private, Classes) Vectors, File Handling, and Functions
 
 ## Screenshots
 ![Menu](screenshots/pet_menu.png)
